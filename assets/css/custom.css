@@ -1,0 +1,24 @@
+/*Name: Muhammad Ans  
+ID: 75834 */
+nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-color: #005461 }
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+
+header.theme-dark   { background-color: #005461  }
+
+header.theme-dark  h1 { color: var(--teal-500); }
+
+section.theme-dark   { background-color: #018790 }
+
+footer.theme-dark   { background-color:#005461 }
+
+
+
+header .col-text h2, .col-1 > h3 { line-height: 1.8 }
